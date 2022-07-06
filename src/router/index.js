@@ -36,8 +36,9 @@ const routes = [
           component:nowplay
         },
         {
-          path:'/movie/comesoon',
-          component:comesoon
+          path:'/movie/comesoon/:id',
+          component:comesoon,
+          name:'comesoon'
         },
         {
           path:'',
