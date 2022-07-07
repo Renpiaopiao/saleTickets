@@ -31,8 +31,8 @@ body {
   margin: 0;
 }
 
-* {
-  touch-action: manipulation;
-}
+// * {
+//   touch-action: manipulation;
+// }
 
 </style>
