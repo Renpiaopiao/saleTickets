@@ -28,12 +28,13 @@ export default {
 }
 
 body {
-  margin: 0;
+  margin: 10px;
 }
 
 * {
-  touch-action: none;
+  touch-action: manipulation;
 }
+
 
 // 修复了一些bug
 // 子分支应该合并到main 当中的代码
