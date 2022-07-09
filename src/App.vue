@@ -31,8 +31,11 @@ body {
   margin: 0;
 }
 
-// * {
-//   touch-action: manipulation;
-// }
+* {
+  touch-action: manipulation;
+}
+
+// 修复了一些bug
+// 子分支应该合并到main 当中的代码
 
 </style>
