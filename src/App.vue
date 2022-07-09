@@ -32,7 +32,7 @@ body {
 }
 
 * {
-  touch-action: manipulation;
+  touch-action: none;
 }
 
 // 修复了一些bug
